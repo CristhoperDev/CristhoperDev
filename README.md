@@ -2,8 +2,9 @@
 
 ## I'm a Full stack Developer from Peru
 
-- 🔭 I’m currently working on [EquipIndustry](https://www.equipindustry.com/)
-- 🌱 I’m currently learning Dart / Flutter.
+- 🔭 I'm currently working on 1health
+- 🌱 I'm currently learning Dart , Flutter, AWS & Terraform
+- 🥅 Goals: Explore more things about Cloud, Golang & Grpc
 - ⚡ Fun fact **I love read books**
 
 ### Technology Stack:
